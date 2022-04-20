@@ -31,7 +31,7 @@ admins = {"洪仲杰" : "Uefa7580b75912cf5cbd1be6dba8dafbe",
 #          "陳宜祥" : "U75851bf4cd33d189464170b50df30ee8",
           "蕭崇聖" : "U45eac4b2d3598d5bb9ee33cee0518d45",
           "賴冠鏵" : "U3ff60662d9e6b90835aa52fa8cfb6ef5",
-	  "林俊宇" : "U0772fe2a09529c65b7a7c0163a92feda",
+#	  "林俊宇" : "U0772fe2a09529c65b7a7c0163a92feda",
 #	   "陳怡誠" : "Ua96931bfef5d06d91250f883559a0750"
 	 "張晉源" : "Ue8f9f131ad9ce7a424ec19b1fd82b076"}
 groups = {"午餐群組" : "Cf4a08527ed49eab9d2cf53a8b0309cf0",
