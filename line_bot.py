@@ -28,8 +28,8 @@ app_name = 'eatwhat-in-ncu'
 
 # 管理員、可用群組、餐廳名單
 admins = {"洪仲杰" : "Uefa7580b75912cf5cbd1be6dba8dafbe",
-		  "陳宜祥" : "U75851bf4cd33d189464170b50df30ee8",
-		  "蕭崇聖" : "U45eac4b2d3598d5bb9ee33cee0518d45",
+          "陳宜祥" : "U75851bf4cd33d189464170b50df30ee8",
+          "蕭崇聖" : "U45eac4b2d3598d5bb9ee33cee0518d45",
           "賴冠鏵" : "U3ff60662d9e6b90835aa52fa8cfb6ef5",
 	  "林俊宇" : "U0772fe2a09529c65b7a7c0163a92feda",
 	  "陳怡誠" : "Ua96931bfef5d06d91250f883559a0750"}
